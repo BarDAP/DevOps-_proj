@@ -1,4 +1,4 @@
 <%   
 String name=request.getParameter("uname");  
-out.print("welcome "+name);  
+out.print("Hi and welcome "+name);  
 %>  
